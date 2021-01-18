@@ -1,14 +1,14 @@
 # REQUISITOS
 
-É preciso ter o NodeJS e NPM ou o Yarn instalados
+É preciso ter o NodeJS e NPM ou o Yarn instalados.  
 
 # O QUE O APP FAZ
 
-O app comprimi ou redimensiona a imagem que você especificar.
+O app comprimi ou redimensiona a imagem que você especificar.  
 
 # COMO UTILIZAR
 
-Abra sua linha de comando dentro da pasta do projeto e digite os comandos listados abaixo de acordo com o que quer fazer.
+Abra sua linha de comando dentro da pasta do projeto e digite os comandos listados abaixo de acordo com o que quer fazer.  
 
 # REDIMENSIONAR IMAGEM
 
@@ -23,7 +23,7 @@ O exemplo acima irá redimensionar a imagem 'teste.png' para 200 de largura e ir
 
 Nota: o exemplo utiliza o caminho total, mas pode ser usado o caminho relativo.  
 
-As imagens podem ser achadas no caminho "tmp/resized"
+As imagens podem ser achadas no caminho "tmp/resized"  
 
 # COMPRIMIR IMAGEM
 
