@@ -1,0 +1,16 @@
+{
+  "name": "comprimir-imagem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "resize": "node index.js resize",
+    "compress": "node index.js compress"
+  },
+  "dependencies": {
+    "compress-images": "^1.9.5",
+    "gifsicle": "^5.1.0",
+    "pngquant-bin": "^6.0.0",
+    "sharp": "^0.27.0"
+  }
+}
