@@ -1,6 +1,8 @@
 # REQUISITOS
 
-É preciso ter o NodeJS e NPM ou o Yarn instalados.  
+É preciso ter o NodeJS instalado.
+
+https://nodejs.org/en  
 
 # O QUE O APP FAZ
 
